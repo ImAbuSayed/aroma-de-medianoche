@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aroma-de-medianoche/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Aroma de medianoche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aroma-de-medianoche/) |
+| **Get License** | [Request Licensing for Aroma de medianoche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aroma-de-medianoche/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8740e54e51be79a89f1d1c05783bf4d7c6d972b58981e0631f46f6cd507b4c15` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

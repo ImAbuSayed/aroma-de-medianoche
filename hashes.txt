@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Aroma de medianoche
+
+This log tracks the cryptographic history and versioning for the song **Aroma de medianoche** (aroma-de-medianoche).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T17:33:31.092215 | `v1` | `8740e54e51be79a89f1d1c05783bf4d7c6d972b58981e0631f46f6cd507b4c15` | `375f5d06f048cdd11bc386f4d6cef246689995b01e5ad3f54bacd727f8f23ac1` | `2026-06-17_aroma-de-medianoche-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
