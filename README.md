@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ese aroma de medianoche me tiene encendío', yeah
+> Un perfume caro que en el aire has prendío'
+> Me miras de lejos y el jangueo está resolvío'
+> En este club oscuro todo el juego es mío
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
